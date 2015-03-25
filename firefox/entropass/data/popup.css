@@ -16,6 +16,7 @@ input[type="text"], input[type="password"], input[type="number"] {
     border-radius: 5px;
     padding: 6px;
     margin: 2px;
+    height: 16px;
     width: 210px;
 }
 
